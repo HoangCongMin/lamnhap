@@ -1,0 +1,109 @@
+*{
+  padding: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url("dark-wood.jpg");
+  color: #999999;
+}
+#tong{
+  margin: auto;
+  width: 940px;
+  background-color: white;
+}
+#menu li{
+  display: inline-block;
+  /*background-color: #cccccc;*/
+/*color: white;*/
+}
+#menu{
+  background-color: #cccccc;
+}
+#anh{
+  background-color: #cccccc;
+
+}
+#menu a{
+  color: white;
+  text-decoration: none;
+  padding: 10px;
+  padding-left: 20px;
+}
+#anhtong{
+  width: 70%;
+  background-color: white;
+  float: left;
+border-right: 1px solid #888888;
+
+}
+#anh1{
+  border: 1px solid #999999;
+  width: 47%;
+  margin: 10px;
+  padding-left: 5px;
+  padding-top: 5px;
+  float: left;
+
+}
+#anh2{
+  border: 1px solid #999999;
+  width: 47%;
+  margin: 10px;
+  padding-left: 5px;
+  padding-top: 5px;
+  float: left;
+
+}
+
+#tong2{
+  float: right;
+  background-color: white;
+  width: 30%;
+  padding: 20px;
+
+}
+#tonganh1{
+  height: 220px;
+  /*float: left;*/
+  margin: 10px;
+}
+#tonganh2{
+  height: 220px;
+  margin: 10px;
+}
+#vb1{
+  padding: 10px;
+}
+#vb2{
+  padding: 30px;
+}
+#tong21{
+  height: 250px;
+  /*padding-left: 20px;*/
+
+}
+#tong21 a{
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+  color: pink;
+  border-bottom: 1px solid #cccccc;
+  background-color: white;
+}
+#tong22{
+  height: 180px;
+
+}
+#tong22 h1{
+ color: pink;
+
+}
+footer{
+  clear: both;
+  background-color: #cccccc;
+  color: white;
+  padding: 10px;
+}
+
